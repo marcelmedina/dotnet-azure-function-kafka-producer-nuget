@@ -1,1 +1,1 @@
-# dotnet8-azure-function-kafka-producer-with-nuget
+# dotnet-azure-function-kafka-producer-with-nuget
